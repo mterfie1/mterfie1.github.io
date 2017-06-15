@@ -1,0 +1,108 @@
+
+body {
+	
+	background-image: url("WhiteBackground.jpg");
+	background-repeat: no-repeat;
+	background-size: 150%;
+	font-family: "sans-serif";
+	
+}
+
+h1 {
+	color: DimGrey;
+	text-align: center;
+	font-size: 50px;
+ 	
+}
+
+.profile {
+	display: block;
+	margin: 0 auto;
+	height: 150px;
+	width: 150px;
+	border-radius: 8px;
+	
+}
+
+.name {
+	text-align: center;
+ 	
+}
+
+
+br {
+	
+	line-height:3em;
+}
+
+.body{
+	background-color: white;
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	width: 700px;
+	margin: 20px auto;
+	
+}
+
+.projects{
+	color: DimGrey;
+	text-align: center;
+	font-size: 20px;
+ }
+
+ p {
+	padding: 20px; 
+ }
+
+
+.movies{
+	padding: 20px;
+	color: SlateGrey;
+	text-align: center;
+	font-size: 15px;
+ 	
+}
+
+tbody tr:nth-child(odd){
+	background-color: #eee;
+}
+
+thead {
+	background-color: #ccc;
+}
+
+table {
+	padding: 20px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.center {
+	
+	list-style-type: none;
+	padding: 10px;
+	text-align: center;
+	list-style-position: inside;
+}
+
+span{
+	color: red;
+	font-weight: bold;
+	
+}
+a:hover {
+	color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
